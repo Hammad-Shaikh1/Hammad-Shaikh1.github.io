@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(250, 235, 216);
+}
+img{
+    width: 100px;
+    height: 150px;
+    border-radius: 90%;
+}
+h1,h4{
+    text-align: center;
+}
